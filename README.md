@@ -1,1 +1,1 @@
-This is Cohort 9 internship with HNG
+This is HNG Cohort 9 internship
